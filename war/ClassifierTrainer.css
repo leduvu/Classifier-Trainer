@@ -1,0 +1,166 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+
+body{
+	text-align: center;
+}
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  color: #C25337;
+  margin: 40px 0px 70px;
+  text-align: center;
+}
+
+/** Most GWT widgets already have a style name defined */
+.box {
+  width: 35px !important;
+}
+
+.boxWrong {
+  color: red ;
+  outline: none ;
+  border: none ;
+  font-size: 16px ;
+  width: 80px !important; 
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.boxRight {
+  color: green ;
+  outline: none ;
+  border: none ;
+  font-size: 16px ;
+  width: 80px !important; 
+}
+
+.button { 
+	background-image: none ; 
+	background-color: #C25337 ;
+    border: none ;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px ;
+    position:absolute;
+	left:20%;
+	top:680px;
+}
+
+.button:hover {
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.buttonCh { 
+	background-image: none ; 
+	background-color: #d58350 ;
+    border: none ;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px ;
+	width: 160px;   
+	position:absolute;
+	left:20%;
+	top:620px;
+}
+
+.buttonJp { 
+	background-image: none ; 
+	background-color: #d58350 ;
+    border: none ;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px ; 
+    width: 160px;
+    position:absolute;
+	left:32%;
+	top:620px;	
+}
+
+.buttonVn { 
+	background-image: none ; 
+	background-color: #d58350 ;
+    border: none ;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px ;  
+    width: 160px;
+    position: absolute;
+	left:44%;
+	top:620px;	
+}
+
+.buttonCh:hover {
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.buttonJp:hover {
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.buttonVn:hover {
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.red {
+  background: #C25337;
+}
+
+.gwt-CheckBox {
+	margin: 30px;
+	font-size: 20px;
+	color: #d5630e ;
+}
+
+.checkpanel{
+	position:absolute;
+	left:20%;
+	top:580px;
+}
+
+.instr{
+    color: #C25337;
+    font-size: 20px;
+	position:absolute;
+	left:20%;
+	top:230px;
+}
+
+.note{
+    color: #C25337;
+    font-size: 16px;
+	position:absolute;
+	left:20%;
+	top:120px;
+	width: 900px;
+}
+
+.textarea{
+    background: #f2f2f2;
+    font-size: 18px;	
+	position:absolute;
+	resize: none;
+	left:20%;
+	top:270px;
+	width: 900px;
+	height:300px;
+}
+
+.results {
+   height: 50%;
+   width: 60%;
+   position:absolute;
+   left: 20%;
+}
