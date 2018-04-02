@@ -17,7 +17,7 @@ There are different programs included, to perform tokenization and pos-tagging. 
 
 <br />
 <br />
-## Usage
+### Usage
 
 As instructed on the page, the user can paste texts of the language they want to practice for into the gray textarea and check the language and the levels before starting the exercise as shown in Figure 1. It is allowed to check more than one level as the user likes. When the text is masked, below is shown how many classifiers are found. The classifiers or rather any text can be typed into the text box, and after the solutions are submitted by clicking the finished button, feedback is given in green as correct and red as incorrect, over which the user can hover the cursor for additional information about the classifier. The back button will lead the user back to the starting point, where the pasted text is still in the textarea and the previous selected levels and languages remain unchanged.
 
