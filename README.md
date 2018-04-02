@@ -13,6 +13,4 @@ There are different programs included, to perform tokenization and pos-tagging. 
 <br />
 <br />
 
-Programmed by Le Duyen Sandra Vu.
-
-Contributor Chih-Chun Chang.
+(Programmed by Le Duyen Sandra Vu. Contributor Chih-Chun Chang.)
